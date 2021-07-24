@@ -13,20 +13,19 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "ianmccarthy"
+disqusShortname = "xinhu"
 googleAnalytics = "UA-158371232-1"
 enableEmoji = true
 
 [params]
-    author = "Ian McCarthy"
-    description = "Personal website for Ian McCarthy"
+    author = "Xin Hu"
+    description = "Personal website for Xin Hu"
     keywords = "research, personal"
-    info1 = "Associate Professor of Economics, Emory University"
-    info2 = "Faculty Research Fellow, NBER"    
+    info1 = "PhD student, Emory University" 
     avatarurl = "images/mccarthy-headshot.jpg"
     footercontent = ""
 
-    dateformat = "May 26, 2020"
+    dateformat = "July 24, 2021"
 
     hideCredits = false
     hideCopyright = false
