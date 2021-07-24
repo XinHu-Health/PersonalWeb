@@ -1,6 +1,6 @@
 # Personal Website
 
-This is the README file for my personal/academic website, built using Blogdown with Hugo and Coder theme. The coder theme is available at https://github.com/luizdepra/hugo-coder.git.
+This is the README file for my personal website, built using Blogdown with Hugo and Coder theme. The coder theme is available at https://github.com/luizdepra/hugo-coder.git.
 
 Here are some very basic instructions for building your website in a similar fashion:<br>
 
